@@ -1,0 +1,16 @@
+
+.link { 
+color: SeaGreen; 
+}
+
+body { 
+background-color: #e6ffe1; 
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    text-align: center;
+    padding: 5%;
+  }
+
